@@ -21,6 +21,10 @@
 </div>
 
 <br />
+
+> Vitunix is Arch based Linux distro which focuses more on the usage of developers. <br />
+> It is going to be highly customizable OS that comes pre-installed with openbox and bspwm.
+
 <p align="center">
 <i> Expected ISO Release: January 2023 </i>
 <br />
