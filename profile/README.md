@@ -29,7 +29,7 @@
 ## Insights 👀
 |Desktop|Showcase|
 |--|--|
-| ![image](https://user-images.githubusercontent.com/56447720/213879592-daca506c-bf97-4b6f-be3c-df886c6988d9.png) | ![image](https://user-images.githubusercontent.com/56447720/213880338-a1803fcc-3a44-4317-a2b6-78b6651fa891.png)
+| ![image](https://user-images.githubusercontent.com/56447720/213880447-fea9644d-6cc6-4f75-9120-8d5a04454fcb.png) | ![image](https://user-images.githubusercontent.com/56447720/213880338-a1803fcc-3a44-4317-a2b6-78b6651fa891.png)
 
 
 
