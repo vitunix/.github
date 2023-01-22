@@ -31,6 +31,9 @@
 |--|--|
 | ![image](https://user-images.githubusercontent.com/56447720/213880447-fea9644d-6cc6-4f75-9120-8d5a04454fcb.png) | ![image](https://user-images.githubusercontent.com/56447720/213880338-a1803fcc-3a44-4317-a2b6-78b6651fa891.png)
 
+|Trailer|
+|--|
+[![A New Arch Distro](https://user-images.githubusercontent.com/56447720/213922450-e575d747-cb50-4cc2-821a-6551a62f68fb.jpg)](https://youtu.be/67lBAj5_4Yk)
 
 
 
