@@ -39,6 +39,6 @@
 
 
 <p align="center">
-<i> Expected ISO Release: Late February 2023 </i>
+<i> Expected ISO Release: Late March 2023 </i>
 <br />
 </p>
