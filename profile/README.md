@@ -1,6 +1,7 @@
 
 ## Vitunix OS
-![image](https://user-images.githubusercontent.com/56447720/222925978-92523dd1-72c6-4143-9ea4-aa1225113fea.png)
+
+![image](https://user-images.githubusercontent.com/56447720/222956060-08e9b806-7fb1-41b0-924c-097f7c4a91bc.png)
 
 <p align="center"> Download the ISO from <a href="https://github.com/vitunix/vitunix-iso/releases/tag/iso-v1.0-beta"> Github release </a> </p>
 
