@@ -8,3 +8,9 @@
 ### Thanks note
 
 A big thanks to <a href="https://github.com/mmsaeed509"> `Mahmoud` </a> , <a href="https://github.com/TechXero"> `TechXero` </a> and all other people for helping/contributing directly or indirectly. 
+
+## Xero Linux merch 
+
+Guyssss, have a look at XeroLinux's merch store :))), Xerolinux is a Arch distro that works on KDE, developed by <a href="https://github.com/TechXero"> `TechXero` </a> <br />
+You can check it out here : https://store.streamelements.com/xerolinux <br />
+you can contact him on discord: `TechXero#5199`
