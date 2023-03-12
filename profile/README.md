@@ -10,7 +10,7 @@
 <!-- ![image](https://user-images.githubusercontent.com/56447720/224530761-52197f9a-97a2-4384-b655-30ecc1e38899.png) -->
 
 
-<p align="center"> Download the ISO from <a href="https://github.com/vitunix/vitunix-iso/releases/tag/iso-v1.0-beta"> Github release </a> </p>
+<h2 align="center"> Download iso from  <a href="https://github.com/vitunix/vitunix-iso/releases/tag/iso-v1.0">here</a>. </h2>
 
 ### Thanks note
 
