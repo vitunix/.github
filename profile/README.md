@@ -1,7 +1,10 @@
 
-## Vitunix OS
+<h1 align="center"> Vitunix OS </h1>
 
-![image](https://user-images.githubusercontent.com/56447720/222956060-08e9b806-7fb1-41b0-924c-097f7c4a91bc.png)
+|bspwm|openbox|
+|--|--|
+|![image](https://user-images.githubusercontent.com/56447720/222956060-08e9b806-7fb1-41b0-924c-097f7c4a91bc.png)| ![image](https://user-images.githubusercontent.com/56447720/224530761-52197f9a-97a2-4384-b655-30ecc1e38899.png)
+
 
 <p align="center"> Download the ISO from <a href="https://github.com/vitunix/vitunix-iso/releases/tag/iso-v1.0-beta"> Github release </a> </p>
 
