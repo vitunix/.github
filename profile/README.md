@@ -13,6 +13,10 @@
 <h2 align="center"> Download iso from  <a href="https://github.com/vitunix/vitunix-iso/releases/tag/iso-v1.0">here</a>. Make sure you read the <a href="https://github.com/vitunix/vitunix-iso/wiki">wiki</a> once.</h2>
 
 
+## note
+> next update? <br />
+> Stay tuned!! (it inclues i3 and new themes to openbox and bspwm)
+
 ### Thanks note
 
 A big thanks to <a href="https://github.com/mmsaeed509"> `Mahmoud` </a> , <a href="https://github.com/TechXero"> `DarkXero` </a> and all other people for helping/contributing directly or indirectly. 
