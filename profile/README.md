@@ -16,9 +16,10 @@
 <h2 align="center"> Download iso from  <a href="https://github.com/vitunix/vitunix-iso/releases/tag/iso-v1.0">here</a>. Make sure you read the <a href="https://github.com/vitunix/vitunix-iso/wiki">wiki</a> once.</h2>
 
 
-## note
-> next update? <br />
-> Stay tuned!! (it inclues i3 and new themes to openbox and bspwm)
+# note
+### Vitunix is now a DEAD PROJECT. Please dont download and use, it might be vulnerable to latest exploits. 
+> You can refer to the repos for your own creation though.
+
 
 ### Thanks note
 
